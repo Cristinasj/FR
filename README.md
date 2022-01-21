@@ -20,5 +20,12 @@ Apuntes de fundamentos de redes
 |SNMP|||Aplicación||
 |SSH|||Aplicación||
 |Telnet|||Aplicación||
-||||Transporte||
+|TCP|||Transporte||
+|UDP|||Transporte||
+|IP|||Internet||
+|ICMP|||Internet||
+|ARP|||Enlace||
+|PPP|||Enlace||
+|MAC|||Enlace||
+|Tunnels|||Enlace||
 ||||||
