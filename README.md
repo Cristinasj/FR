@@ -7,21 +7,20 @@ Apuntes de fundamentos de redes
 |SSL|Secure Socket Layer|Criptografía|Apliación||
 |TLS|||Aplicación||
 |BGP|||Aplicación||
-|DHCP(v6)|||Aplicación||
-|DNS|||Aplicación||
-|FTP|||Aplicación||
-|HTTP|||Aplicación||
-|HTTPS|||Aplicación||
+|DHCP(v6)||Configuración automática de parámetris de red|Aplicación|66,67,68|
+|DNS||Resolución de nombres de domimio|Aplicación|53|
+|FTP||Transferencia de archivos|Aplicación|20,21|
+|HTTP||Transferencia de hipertexto|Aplicación|80,443 con SSL/TLS|
 |IMAP|||Aplicación||
 |OSPF|||Aplicación||
 |PTP|||Aplicación||
 |RIP|||Aplicación||
-|SMTP|||Aplicación||
+|SMTP||Email|Aplicación|25|
 |SNMP|||Aplicación||
 |SSH|||Aplicación||
-|Telnet|||Aplicación||
+|Telnet||cliente/servidor|Aplicación|23|
 |TCP|||Transporte||
-|UDP|||Transporte||
+|UDP||Intercambio de datagramas a través de una red|Transporte|113|
 |IP|||Internet||
 |ICMP|||Internet||
 |ARP|||Enlace||
