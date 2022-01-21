@@ -2,8 +2,8 @@
 Apuntes de fundamentos de redes
 |Protocolo|Siglas|Uso|Capa|Puerto|
 |---------|------|---|----|------|
-|POP3|Post Office Protocol|emails|Aplicación|110, 995 con SSL/TLS|
-|IMAP|Internet Message Access Protocol|email|Aplicación|143, 993 con SSL/TLS|
+|POP3|Post Office Protocol|emails. Borra los emails del servidor de correo|Aplicación|110, 995 con SSL/TLS|
+|IMAP|Internet Message Access Protocol|email. Mejor sincronización (lectura, borrado...) que POP3|Aplicación|143, 993 con SSL/TLS|
 |SSL|Secure Socket Layer|criptografía|Apliación||
 |TLS|||Aplicación||
 |BGP|||Aplicación||
