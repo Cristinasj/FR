@@ -28,3 +28,6 @@ Apuntes de fundamentos de redes
 |MAC|||Enlace||
 |Tunnels|||Enlace||
 ||||||
+Puertos bien conocidos: 0-1023 críticos
+Puertos registrados: 1024-49151 IANA, aplicaciones no críticas
+Puertos efimeros: 49152-65535 Son de usar y tirar. Funciona mientras dura la conexión
