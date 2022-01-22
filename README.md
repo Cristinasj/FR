@@ -5,10 +5,10 @@ Apuntes de fundamentos de redes
 |POP3|Post Office Protocol|Email. Borra los emails del servidor de correo|Aplicación|110, 995 con SSL/TLS|
 |IMAP|Internet Message Access Protocol|Email. Mejor sincronización (lectura, borrado...) que POP3 porque el sevidor guarda una copia maestra|Aplicación|143, 993 con SSL/TLS|
 |SSL|Secure Socket Layer|Criptografía|Apliación||
-|TLS|||Aplicación||
-|BGP|||Aplicación||
-|DHCP(v6)||Configuración automática de parámetris de red|Aplicación|66,67,68|
-|DNS||Resolución de nombres de domimio|Aplicación|53|
+|TLS|Transport Layer Security|Criptografía|Aplicación||
+|BGP|Border Gateway Protocol|Intercambiar información en SA (Sistemas Autónomos)|Aplicación||
+|DHCP(v6)|Dynamic Host Configuration Protocol|Configuración automática de parámetris de red|Aplicación|66,67,68|
+|DNS|Domain Name System|Resolución de nombres de domimio|Aplicación|53|
 |FTP||Transferencia de archivos|Aplicación|20,21|
 |HTTP||Transferencia de hipertexto|Aplicación|80,443 con SSL/TLS|
 |IMAP|||Aplicación||
