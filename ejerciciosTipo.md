@@ -2,5 +2,5 @@
 ARP broadcast WHO IS [IP]?
 [IP] RESPONSE MAC=MAC-R11
 
-# TCP 
+# TCP con Tp Vt Tam, MSS...
 # Encontrar subredes
